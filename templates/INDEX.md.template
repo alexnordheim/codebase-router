@@ -1,0 +1,5 @@
+# ROUTER
+stack: {{stack}}
+
+AREAS
+{{area_name}}  → {{area}}/_.md  | {{keywords}}

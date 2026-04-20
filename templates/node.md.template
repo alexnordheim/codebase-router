@@ -1,0 +1,7 @@
+# {{AREA}}/{{NODE}}
+{{file_paths}}
+
+{{key_entries}}
+
+CHANGED: {{date}}
+DEPS: {{deps}}

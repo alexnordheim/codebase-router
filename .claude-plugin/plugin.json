@@ -1,0 +1,9 @@
+{
+  "name": "codebase-router",
+  "description": "Lightweight routing network for large codebases. Keeps Claude focused on the right area without reading the entire project.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alex Nordheim",
+    "url": "https://github.com/alexnordheim/codebase-router"
+  }
+}

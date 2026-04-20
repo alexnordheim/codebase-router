@@ -1,0 +1,5 @@
+.DS_Store
+.routing/
+.omc/
+node_modules/
+*.log

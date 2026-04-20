@@ -1,0 +1,20 @@
+{
+  "name": "codebase-router",
+  "description": "Lightweight routing network for large codebases — keeps Claude focused on the right area without reading the entire project.",
+  "owner": {
+    "name": "Alexander Nordheim",
+    "email": "alexander.nordheim04@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "codebase-router",
+      "description": "Builds a .routing/ network of small MD files (max 15 lines each). Claude routes natural-language prompts to the right area with minimal context load.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Alexander Nordheim",
+        "email": "alexander.nordheim04@gmail.com"
+      }
+    }
+  ]
+}

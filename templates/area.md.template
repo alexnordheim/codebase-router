@@ -1,0 +1,7 @@
+# {{AREA}}
+root: {{root_path}}
+
+NODES
+{{node_name}}  → {{area}}/{{node}}.md  | {{keywords}}
+
+DEPS: {{deps}}
